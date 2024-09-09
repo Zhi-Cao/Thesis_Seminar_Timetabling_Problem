@@ -22,6 +22,7 @@ Python libraries required can be installed using the provided `requirements.txt`
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Contact
 For any questions or issues, please feel free to open an issue in the repository or contact the author at zhcao2@student.unimelb.edu.au
