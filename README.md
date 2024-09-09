@@ -16,13 +16,9 @@ To replicate the experiments or run the notebooks, you will need the following s
 - **Python 3.11**
 - **Jupyter Notebook**
 - **Gurobi Optimizer version 11.0.0**
+- **Required Python Libraries**
 - **The MiniZinc IDE (version 2.8.3 or higher)**
 
-Python libraries required can be installed using the provided `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Contact
 For any questions or issues, please feel free to open an issue in the repository or contact the author at zhcao2@student.unimelb.edu.au
