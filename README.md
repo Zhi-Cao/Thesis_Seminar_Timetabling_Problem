@@ -21,5 +21,5 @@ To replicate the experiments or run the notebooks, you will need the following s
 
 
 ## Contact
-For any questions or issues, please feel free to open an issue in the repository or contact the author at zhcao2@student.unimelb.edu.au
+For any questions or issues, please feel free to contact the author at zhcao2@student.unimelb.edu.au
 
