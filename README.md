@@ -1,6 +1,6 @@
 # Numerical Experiments for the thesis *Multi-Objective Approaches for the Thesis Seminar Timetabling Problem*
 
-This repository contains the code and numerical experiments for the Masters thesis titled *Multi-Objective Approaches for the Thesis Seminar Timetabling Problem*. The experiments are implemented using Jupyter Notebook and MiniZinc, and the results presented in the thesis are reproduced here.
+This repository contains the code and numerical experiments for the Masters thesis titled *Multi-Objective Approaches for the Thesis Seminar Timetabling Problem*. The experiments are implemented using Python and MiniZinc, and the results presented in the thesis are reproduced here. The details of the models and algorithms can be found in the thesis.
 
 ## Repository Structure
 
