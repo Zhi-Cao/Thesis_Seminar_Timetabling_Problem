@@ -4,8 +4,8 @@ This repository contains the code and numerical experiments for the Masters thes
 
 ## Repository Structure
 
-- `MOILP for the TSTP/`: Contains the Jupyter Notebook file for the experiments for the Multi-Objective Integer Linear Programming (MOILP) models for the TSTP.
-- `MOSA for the TSTP/`: Contains the Jupyter Notebook file for the experiments for the Multi-Objective Simulated Annealing (MOSA) for the TSTP.
+- `MOILP/`: Contains the Jupyter Notebook file for the experiments for the Multi-Objective Integer Linear Programming (MOILP) models for the TSTP.
+- `MOSA/`: Contains the Jupyter Notebook file for the experiments for the Multi-Objective Simulated Annealing (MOSA) for the TSTP.
 - `MiniZinc for the TSTP/`: Contains the MOILP model files using the weighted-sum technique and the data files of the artificial instances for the TSTP impelemented in MiniZinc.
 - `Results/`: Pre-generated results for users to quickly view without re-running the full experiments.
 
